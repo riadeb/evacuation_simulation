@@ -1,2 +1,2 @@
 # Simulation an evacuation
-A simple model to simulate an evacuation, using dynamic programming techniques, written in Python
+Un modèle de simulation d'une évacation, en utilisant des techniques de programmation dynamiques, écrit en Python
